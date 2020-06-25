@@ -1997,8 +1997,8 @@
 - Ability to specify multiple domains as allowed origins  [\#1643](https://github.com/openware/peatio/issues/1643)
 - Sessions do not delete when DELETE /api/v2/sessions [\#1440](https://github.com/openware/peatio/issues/1440)
 - Add ability to handle scopes from api keys [\#1432](https://github.com/openware/peatio/issues/1432)
-- \[Member API v2\] Add code which ensures JWT is not blacklisted at every request \(check in Redis\)  [\#720](https://github.com/openware/peatio/issues/720)
-- \[Member API v2\] Add code which ensures JWT is not blacklisted at every request \(issue request to Barong\)  [\#719](https://github.com/openware/peatio/issues/719)
+- \[Member API v2\] Add code which ensures JWT is not denylisted at every request \(check in Redis\)  [\#720](https://github.com/openware/peatio/issues/720)
+- \[Member API v2\] Add code which ensures JWT is not denylisted at every request \(issue request to Barong\)  [\#719](https://github.com/openware/peatio/issues/719)
 - Use stable version for oauth2 gem [\#667](https://github.com/openware/peatio/issues/667)
 
 **Merged pull requests:**
